@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aschotdases-cpu.github.io/vpn-roblox-russia/sitemap.xml
